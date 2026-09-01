@@ -96,4 +96,6 @@
 | [leopc999](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/72636465.md) |   |   |   |   |   |   |   |
 | [s393801048](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/245884676.md) |   |   |   |   |   |   |   |
 | [joyc](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/3427329.md) |   |   |   |   |   |   |   |
+| [tenacious89](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/94431826.md) |   |   |   |   |   |   |   |
+| [qiaopengjun5162](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/124650229.md) |   |   |   |   |   |   |   |
 <!-- END_COMMIT_TABLE -->
