@@ -95,4 +95,5 @@
 | [tangivis](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/59908678.md) |   |   |   |   |   |   |   |
 | [leopc999](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/72636465.md) |   |   |   |   |   |   |   |
 | [s393801048](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/245884676.md) |   |   |   |   |   |   |   |
+| [joyc](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/3427329.md) |   |   |   |   |   |   |   |
 <!-- END_COMMIT_TABLE -->
