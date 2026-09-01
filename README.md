@@ -5,8 +5,6 @@
 
 用一周时间学习 Hermes Agent，完成安装和基础使用，最终完成一个有输入、有产物、能验收、可复现的真实任务。
 
-<br />
-
 七天后，你将掌握一条真正能使用 Hermes 的完整路径：
 `安装 → 第一次对话 → 明确任务 → 生成产物 → 将 Hermes 训练为生产级的 Agent`
 
@@ -20,7 +18,6 @@
 
 * 注意：不要泄露任何 API Key、Token、私钥等凭据，不让 Agent 未经确认执行危险操作。
 
-\
 往期共学：
 
 * 第一期：<https://intensivecolearn.ing/programs/cmt3tcaeh0e5yro29dzbw8uzd>
@@ -88,4 +85,10 @@
 <!-- START_COMMIT_TABLE -->
 | Name | 9.03 | 9.04 | 9.05 | 9.06 | 9.07 | 9.08 | 9.09 |
 | ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| [MIA-Ether](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/176461498.md) |   |   |   |   |   |   |   |
+| [BromdenX](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/49739676.md) |   |   |   |   |   |   |   |
+| [Hu-Wentao](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/35894003.md) |   |   |   |   |   |   |   |
+| [CHS1997](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/27101642.md) |   |   |   |   |   |   |   |
+| [henrycyberbio](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/197507345.md) |   |   |   |   |   |   |   |
+| [CeliaCheng888](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/315270656.md) |   |   |   |   |   |   |   |
 <!-- END_COMMIT_TABLE -->
