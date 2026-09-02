@@ -101,4 +101,5 @@
 | [Amber-DD](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/282824689.md) |   |   |   |   |   |   |   |
 | [yhzhongc](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/232001320.md) |   |   |   |   |   |   |   |
 | [CHENFANGC](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/29766018.md) |   |   |   |   |   |   |   |
+| [merlin-ecde](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/118063007.md) |   |   |   |   |   |   |   |
 <!-- END_COMMIT_TABLE -->
