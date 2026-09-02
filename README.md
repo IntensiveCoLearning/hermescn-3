@@ -102,4 +102,5 @@
 | [yhzhongc](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/232001320.md) |   |   |   |   |   |   |   |
 | [CHENFANGC](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/29766018.md) |   |   |   |   |   |   |   |
 | [merlin-ecde](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/118063007.md) |   |   |   |   |   |   |   |
+| [ZiYang0702](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/306981362.md) |   |   |   |   |   |   |   |
 <!-- END_COMMIT_TABLE -->
