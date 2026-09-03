@@ -111,5 +111,5 @@
 | [rosieluox2223-spec](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/239582751.md) |   |   |   |   |   |   |   |
 | [Monster-Obluda](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/119944124.md) | ✅ |   |   |   |   |   |   |
 | [cainiao0924](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/276671506.md) |   |   |   |   |   |   |   |
-| [ethanzhang666888](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/183079820.md) |   |   |   |   |   |   |   |
+| [ethanzhang666888](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/183079820.md) | ✅ |   |   |   |   |   |   |
 <!-- END_COMMIT_TABLE -->
