@@ -85,7 +85,7 @@
 <!-- START_COMMIT_TABLE -->
 | Name | 9.03 | 9.04 | 9.05 | 9.06 | 9.07 | 9.08 | 9.09 |
 | ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| [MIA-Ether](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/176461498.md) | ✅ |   |   |   |   |   |   |
+| [MIA-Ether](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/176461498.md) | ✅ | ✅ |   |   |   |   |   |
 | [BromdenX](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/49739676.md) | ✅ |   |   |   |   |   |   |
 | [Hu-Wentao](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/35894003.md) | ✅ |   |   |   |   |   |   |
 | [CHS1997](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/27101642.md) | ⭕️ |   |   |   |   |   |   |
