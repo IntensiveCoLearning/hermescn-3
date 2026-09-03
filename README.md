@@ -89,10 +89,10 @@
 | [BromdenX](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/49739676.md) |   |   |   |   |   |   |   |
 | [Hu-Wentao](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/35894003.md) | ✅ |   |   |   |   |   |   |
 | [CHS1997](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/27101642.md) |   |   |   |   |   |   |   |
-| [henrycyberbio](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/197507345.md) |   |   |   |   |   |   |   |
+| [henrycyberbio](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/197507345.md) | ✅ |   |   |   |   |   |   |
 | [CeliaCheng888](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/315270656.md) | ✅ |   |   |   |   |   |   |
 | [Grace-bebetter](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/53141072.md) |   |   |   |   |   |   |   |
-| [tangivis](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/59908678.md) |   |   |   |   |   |   |   |
+| [tangivis](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/59908678.md) | ⭕️ |   |   |   |   |   |   |
 | [leopc999](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/72636465.md) |   |   |   |   |   |   |   |
 | [s393801048](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/245884676.md) |   |   |   |   |   |   |   |
 | [joyc](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/3427329.md) |   |   |   |   |   |   |   |
