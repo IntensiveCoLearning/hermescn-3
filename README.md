@@ -97,7 +97,7 @@
 | [s393801048](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/245884676.md) | ⭕️ |   |   |   |   |   |   |
 | [joyc](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/3427329.md) | ✅ |   |   |   |   |   |   |
 | [tenacious89](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/94431826.md) | ⭕️ |   |   |   |   |   |   |
-| [qiaopengjun5162](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/124650229.md) | ✅ |   |   |   |   |   |   |
+| [qiaopengjun5162](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/124650229.md) | ✅ | ✅ |   |   |   |   |   |
 | [Amber-DD](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/282824689.md) | ✅ |   |   |   |   |   |   |
 | [yhzhongc](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/232001320.md) | ⭕️ |   |   |   |   |   |   |
 | [CHENFANGC](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/29766018.md) | ✅ |   |   |   |   |   |   |
