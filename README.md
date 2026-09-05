@@ -87,7 +87,7 @@
 | ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | [MIA-Ether](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/176461498.md) | ✅ | ✅ | ✅ |   |   |   |   |
 | [BromdenX](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/49739676.md) | ✅ | ✅ | ✅ |   |   |   |   |
-| [Hu-Wentao](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/35894003.md) | ✅ | ✅ |   |   |   |   |   |
+| [Hu-Wentao](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/35894003.md) | ✅ | ✅ | ✅ |   |   |   |   |
 | [CHS1997](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/27101642.md) | ⭕️ | ✅ |   |   |   |   |   |
 | [henrycyberbio](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/197507345.md) | ✅ | ✅ | ✅ |   |   |   |   |
 | [CeliaCheng888](https://github.com/IntensiveCoLearning/hermescn-3/blob/main/notes/315270656.md) | ✅ | ✅ | ✅ |   |   |   |   |
